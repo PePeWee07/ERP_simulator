@@ -25,12 +25,23 @@
       {
         "id": 3,
         "nombres": "Pako Perez",
-        "cedula": "0704713618",
+        "cedula": "0105931315",
         "rol": "Docente",
         "sede": "Azogues",
         "phone": "593983439288",
         "carrera": null,
         "email": "paco.perez@ucacue.edu.ec",
+        "estado": "Activo"
+      },
+      {
+        "id": 4,
+        "nombres": "Alam Brito",
+        "cedula": "0302407002",
+        "rol": "Estudiante",
+        "sede": "Cuenca",
+        "phone": "593983439283",
+        "carrera": "Software",
+        "email": "alam.brito@ucacue.edu.ec",
         "estado": "Activo"
       }
     ]
