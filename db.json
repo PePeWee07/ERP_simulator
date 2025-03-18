@@ -4,6 +4,17 @@
         "id": 1,
         "nombres": "Jose Roman",
         "cedula": "0704713619",
+        "rol": "Administrativo",
+        "sede": "Cuenca",
+        "phone": "593983439289",
+        "carrera": "Software",
+        "email": "pepewee07@gmail.com",
+        "estado": "Desactivo"
+      },
+      {
+        "id": 2,
+        "nombres": "Jose Roman",
+        "cedula": "0704713619",
         "rol": "Estudiante",
         "sede": "Cuenca",
         "phone": "593983439289",
@@ -12,10 +23,10 @@
         "estado": "Desactivo"
       },
       {
-        "id": 2,
+        "id": 3,
         "nombres": "Jose Roman",
         "cedula": "0704713619",
-        "rol": "Administrativo",
+        "rol": "Visitante",
         "sede": "Cuenca",
         "phone": "593983439289",
         "carrera": null,
@@ -23,7 +34,18 @@
         "estado": "Activo"
       },
       {
-        "id": 3,
+        "id": 4,
+        "nombres": "Jose Roman",
+        "cedula": "0704713619",
+        "rol": "Docente",
+        "sede": "Cuenca",
+        "phone": "593983439289",
+        "carrera": null,
+        "email": "jose.roman@ucacue.edu.ec",
+        "estado": "Activo"
+      },
+      {
+        "id": 5,
         "nombres": "Pako Perez",
         "cedula": "0105931315",
         "rol": "Docente",
@@ -34,7 +56,7 @@
         "estado": "Activo"
       },
       {
-        "id": 4,
+        "id": 6,
         "nombres": "Alam Brito",
         "cedula": "0302407002",
         "rol": "Estudiante",
