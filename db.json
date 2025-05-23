@@ -1,70 +1,70 @@
 {
-    "data": [
-      {
-        "id": 1,
-        "nombres": "Jose Roman",
-        "cedula": "0704713619",
-        "rol": "Administrativo",
-        "sede": "Cuenca",
-        "phone": "593983439289",
-        "carrera": "Software",
-        "email": "pepewee07@gmail.com",
-        "estado": "Desactivo"
-      },
-      {
-        "id": 2,
-        "nombres": "Jose Roman",
-        "cedula": "0704713619",
-        "rol": "Estudiante",
-        "sede": "Cuenca",
-        "phone": "593983439289",
-        "carrera": "Software",
-        "email": "jose.roman@est.ucacue.edu.ec",
-        "estado": "Desactivo"
-      },
-      {
-        "id": 3,
-        "nombres": "Jose Roman",
-        "cedula": "0704713619",
-        "rol": "Visitante",
-        "sede": "Cuenca",
-        "phone": "593983439289",
-        "carrera": null,
-        "email": "jose.roman@ucacue.edu.ec",
-        "estado": "Activo"
-      },
-      {
-        "id": 4,
-        "nombres": "Jose Roman",
-        "cedula": "0704713619",
-        "rol": "Docente",
-        "sede": "Cuenca",
-        "phone": "593983439289",
-        "carrera": null,
-        "email": "jose.roman@ucacue.edu.ec",
-        "estado": "Activo"
-      },
-      {
-        "id": 5,
-        "nombres": "Pako Perez",
-        "cedula": "0105931315",
-        "rol": "Docente",
-        "sede": "Azogues",
-        "phone": "593983439288",
-        "carrera": null,
-        "email": "paco.perez@ucacue.edu.ec",
-        "estado": "Activo"
-      },
-      {
-        "id": 6,
-        "nombres": "Alam Brito",
-        "cedula": "0302407002",
-        "rol": "Estudiante",
-        "sede": "Cuenca",
-        "phone": "593983439283",
-        "carrera": "Software",
-        "email": "alam.brito@ucacue.edu.ec",
-        "estado": "Activo"
-      }
-    ]
-  }
+  "data": [
+    {
+      "id": 1,
+      "nombres": "Jose Roman",
+      "cedula": "0704713619",
+      "rol": "Administrativo",
+      "sede": "Cuenca",
+      "phone": "593983439289",
+      "carrera": "Software",
+      "email": "pepewee07@gmail.com",
+      "estado": "Desactivo"
+    },
+    {
+      "id": 2,
+      "nombres": "Jose Roman",
+      "cedula": "0704713619",
+      "rol": "Estudiante",
+      "sede": "Cuenca",
+      "phone": "593983439289",
+      "carrera": "Software",
+      "email": "jose.roman@est.ucacue.edu.ec",
+      "estado": "Desactivo"
+    },
+    {
+      "id": 3,
+      "nombres": "Jose Roman",
+      "cedula": "0704713619",
+      "rol": "Visitante",
+      "sede": "Cuenca",
+      "phone": "593983439289",
+      "carrera": null,
+      "email": "jose.roman@ucacue.edu.ec",
+      "estado": "Activo"
+    },
+    {
+      "id": 4,
+      "nombres": "Jose Roman",
+      "cedula": "0704713619",
+      "rol": "Docente",
+      "sede": "Cuenca",
+      "phone": "593983439289",
+      "carrera": null,
+      "email": "jose.roman@ucacue.edu.ec",
+      "estado": "Activo"
+    },
+    {
+      "id": 5,
+      "nombres": "Pako Perez",
+      "cedula": "0105931315",
+      "rol": "Docente",
+      "sede": "Azogues",
+      "phone": "593983439288",
+      "carrera": null,
+      "email": "paco.perez@ucacue.edu.ec",
+      "estado": "Activo"
+    },
+    {
+      "id": 6,
+      "nombres": "Alam Brito",
+      "cedula": "0302407002",
+      "rol": "Estudiante",
+      "sede": "Cuenca",
+      "phone": "593983439283",
+      "carrera": "Software",
+      "email": "alam.brito@ucacue.edu.ec",
+      "estado": "Activo"
+    }
+  ]
+}
